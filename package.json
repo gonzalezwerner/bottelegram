@@ -1,0 +1,15 @@
+{
+    "name": "bot-tiktok-downloader",
+    "version": "1.0.0",
+    "description": "Bot de Telegram para descargar videos via Stream",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "telegraf": "^4.12.0"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
